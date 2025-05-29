@@ -3,7 +3,7 @@ package com.cm.sms;
 import android.Manifest;
 
 public class AppConstants {
-    public static final String API_BASE_URL = "http://localhost:3001/api/v1/";
+    public static final String API_BASE_URL = "https://sms.compliancemedicals.xyz:3001/api/v1/";
     public static final String[] requiredPermissions = new String[]{
             Manifest.permission.SEND_SMS,
             Manifest.permission.READ_SMS,
