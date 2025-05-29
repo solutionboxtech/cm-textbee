@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701443240182",
+    "project_id": "textbee-86d73",
+    "storage_bucket": "textbee-86d73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701443240182:android:da363764a2cda36c29bcd7",
+        "android_client_info": {
+          "package_name": "com.cm.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcyReTXF2sSji11_2LjaGfiStCEhLBGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
